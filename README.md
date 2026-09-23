@@ -21,6 +21,7 @@ I am a Frontend Developer with a solid 9-year background in financial management
 * 💬 **[Slack-like Chat App](https://github.com)** — A real-time single-page application for team communication. Powered by WebSockets, React, Redux Toolkit, and Mantine UI. Features Sentry error logging and is deployed on Render.
 * 📰 **[RSS Aggregator](https://github.com)** — A client-side service for auto-updating RSS streams. Built strictly using the MVC pattern with reactive state management (Valtio) and XML parsing.
 * 🧮 **[Difference Calculator (Gendiff)](https://github.com)** — A CLI utility designed to perform deep comparisons of data structures (JSON/YAML). Covered with Jest tests and integrated with an automated GitHub Actions CI/CD pipeline.
+* 🧠 **[Brain Games](https://github.com)** — A package of 5 console-based mathematical games. Designed the core game engine architecture, configured the development infrastructure (npm, ESLint Stylistic, Git), and published the project as a public npm package.
 
 ---
 
