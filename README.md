@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there! I'm Julia 👋
 
 I am a Frontend Developer with a solid 9-year background in financial management, business process automation, and analytics. I made a deliberate transition into Frontend development to engineer complex logic and build intuitive, user-friendly interfaces from the inside out.
