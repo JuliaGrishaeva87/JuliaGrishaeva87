@@ -16,10 +16,10 @@ I am a Frontend Developer with a 9-year background in financial management, busi
 
 ### 🛠 Core Projects
 
-* 💬 **[Slack-like Chat App](https://github.com)** — A real-time single-page application for team communication. Built with WebSockets, React, Redux Toolkit, and Mantine Notifications. Features Sentry error logging and is deployed on Render.
-* 📰 **[RSS Aggregator](https://github.com)** — A client-side service for auto-updating RSS feeds. Built with a clean MVC architecture, reactive state via Valtio, and async XML parsing.
-* 🧮 **[Difference Calculator (Gendiff)](https://github.com)** — A CLI tool for deep data comparison (JSON/YAML) with a solid Jest test suite and automated GitHub Actions CI/CD pipeline.
-* 🧠 **[Brain Games](https://github.com)** — A package of 5 console-based math games built around a single core engine. Includes a full development setup with npm and ESLint, and is published as a public npm package.
+* 💬 **[Slack-like Chat App](https://github.com/JuliaGrishaeva87/frontend-project-12)** — A real-time single-page application for team communication. Built with WebSockets, React, Redux Toolkit, and Mantine Notifications. Features Sentry error logging and is deployed on Render.
+* 📰 **[RSS Aggregator](https://github.com/JuliaGrishaeva87/frontend-project-11)** — A client-side service for auto-updating RSS feeds. Built with a clean MVC architecture, reactive state via Valtio, and async XML parsing.
+* 🧮 **[Difference Calculator (Gendiff)](https://github.com/JuliaGrishaeva87/frontend-project-46)** — A CLI tool for deep data comparison (JSON/YAML) with a solid Jest test suite and automated GitHub Actions CI/CD pipeline.
+* 🧠 **[Brain Games](https://github.com/JuliaGrishaeva87/frontend-project-44)** — A package of 5 console-based math games built around a single core engine. Includes a full development setup with npm and ESLint, and is published as a public npm package.
 
 ---
 
@@ -31,5 +31,5 @@ I have 9 years of experience as a team leader in my previous career, which helps
 
 ### 📫 Connect with me
 
-* 📱 **Telegram:** [@GrishJulia](https://t.me)
+* 📱 **Telegram:** [@GrishJulia](https://t.me/@GrishJulia)
 * 📧 **Email:** `grishaeva.yu@gmail.com`
