@@ -31,5 +31,5 @@ I have 9 years of experience as a team leader in my previous career, which helps
 
 ### 📫 Connect with me
 
-* 📱 **Telegram:** [@GrishJulia](https://t.me/@GrishJulia)
+* 📱 **Telegram:** [@GrishJulia](https://t.me/GrishJulia)
 * 📧 **Email:** `grishaeva.yu@gmail.com`
